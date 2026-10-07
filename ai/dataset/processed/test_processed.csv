@@ -1,0 +1,60 @@
+text,category,severity,department
+Blurry Projectors,Infrastructure,High,IT
+some computers in LAB is very very laggy (7B01-7B08),Technical,Urgent,IT
+The maximum obtainable grade point for the Improvement Exam of any course has been set to 3.5. It should be increased to 4.00.,Academic,Medium,Examination
+Whiteboards in theory classrooms are damaged,Infrastructure,High,Maintenance
+"There is no female washroom on the 7th floor, which causes inconvenience; we respectfully request that one of the two existing washrooms be converted into a female washroom.",Infrastructure,Urgent,Maintenance
+Each floor should have one wheelchair available.,Administrative,High,Student Welfare
+The lab classes lack regular maintenance which hampers the studies.,Technical,High,IT
+The projector screen is not visible from the back of the classroom and the light of the projector is not good in quality.,Infrastructure,High,IT
+The floor of the classroom is not clean.,Infrastructure,Medium,Maintenance
+"Teacher's evaluation must be taken when semester final results are being processed or after they have been published. For the faculties who get poor evaluations, they may attend demo classes of faculties who get good evaluations to understand in real time how they teach.",Academic,Medium,Department Head
+"All families get holidays during the month of December, but after the semester finals of the Fall semester, students of AUST get one month of semester break in November. Therefore, one week of semester break, followed up later by a two-week winter break during December would be more preferrable and student friendly.",Academic,Medium,Examination
+"The quiz questions often do not align with the lecture material, which unfairly puts students at a disadvantage and reflects poor planning or oversight by the course organizers.",Academic,High,Department Head
+some computers in LAB is very very laggy (7B01-7B08).,Technical,Urgent,IT
+The maximum obtainable grade point for the Improvement Exam of any course has been set to 3.5. It should be increased to 4.00. Needs attention.,Academic,Medium,Examination
+Whiteboards in theory classrooms are damaged.,Infrastructure,High,Maintenance
+"There is no female washroom on the 7th floor, which causes inconvenience; we respectfully request that one of the two existing washrooms be converted into a female washroom. Would appreciate a resolution soon.",Infrastructure,Urgent,Maintenance
+Each floor should have one wheelchair accessible.,Administrative,High,Student Welfare
+The lab classes lack regular maintenance which hampers the studies. Please look into it.,Technical,High,IT
+The projector screen is not visible from the back of the classroom and the light of the projector is not good in quality. Would appreciate a resolution soon.,Infrastructure,High,IT
+"Teacher's evaluation must be taken when semester final results are being processed or after they have been published. For the faculties who get subpar evaluations, they may attend demo classes of faculties who get good evaluations to understand in real time how they teach. Kindly verify and take action.",Academic,Medium,Department Head
+"All families get holidays during the month of December, but after the semester finals of the Fall semester, students of AUST get one month of semester break in November. Therefore, one week of semester break, followed up later by a two-week winter break during December would be more preferrable and student friendly. Needs attention.",Academic,Medium,Examination
+"The quiz questions regularly do not align with the lecture material, which inequitably puts students at a setback and reflects inadequate planning or oversight by the course organizers.",Academic,High,Department Head
+Some projectors are not clear. Please look into it.,Infrastructure,High,IT
+The maximum obtainable grade point for the Improvement Exam of any course has been set to 3.5. It should be increased to 4.00. Requesting a quick check.,Academic,Medium,Examination
+The classroom projectors doesnt work well. This is affecting regular activities.,Technical,Urgent,IT
+"There is no female washroom on the 7th floor, which causes inconvenience; we respectfully request that one of the two existing washrooms be converted into a female washroom. Needs attention.",Infrastructure,Urgent,Maintenance
+Each floor should have one wheelchair ready.,Administrative,High,Student Welfare
+The projector screen is not visible from the back of the classroom and the light of the projector is not good in quality. This is affecting regular activities.,Infrastructure,High,IT
+"Teacher's evaluation must be taken when semester final results are being processed or after they have been published. For the faculties who get inadequate evaluations, they may attend demo classes of faculties who get good evaluations to understand in real time how they teach. Would appreciate a resolution soon.",Academic,Medium,Department Head
+"All families get holidays during the month of December, but after the semester finals of the Fall semester, students of AUST get one month of semester break in November. Therefore, one week of semester break, followed up later by a two-week winter break during December would be more preferrable and student friendly. Please look into it.",Academic,Medium,Examination
+some computers in LAB is very very laggy (7B01-7B08). Please look into it.,Technical,Urgent,IT
+The maximum obtainable grade point for the Improvement Exam of any course has been set to 3.5. It should be increased to 4.00. This is affecting regular activities.,Academic,Medium,Examination
+CSE Dept doesnt have qualified teachers. This is affecting regular activities.,Academic,High,Department Head
+Whiteboards in theory classrooms are damaged. Needs attention.,Infrastructure,High,Maintenance
+"There is no female washroom on the 7th floor, which causes inconvenience; we respectfully request that one of the two existing washrooms be converted into a female washroom. This is affecting regular activities.",Infrastructure,Urgent,Maintenance
+AC's don't work properly. Kindly verify and take action.,Infrastructure,Urgent,Maintenance
+The lab classes lack regular maintenance which hampers the studies. (variation-3),Technical,High,IT
+The projector screen is not visible from the back of the classroom and the light of the projector is not good in quality. Kindly verify and take action.,Infrastructure,High,IT
+The floor of the classroom is not clean. Needs attention.,Infrastructure,Medium,Maintenance
+"Teacher's evaluation must be taken when semester final results are being processed or after they have been published. For the faculties who get inadequate evaluations, they may attend demo classes of faculties who get good evaluations to understand in real time how they teach. Needs attention.",Academic,Medium,Department Head
+"All families get holidays during the month of December, but after the semester finals of the Fall semester, students of AUST get one month of semester break in November. Therefore, one week of semester break, followed up later by a two-week winter break during December would be more preferrable and student friendly. This is affecting regular activities.",Academic,Medium,Examination
+"The quiz questions frequently do not align with the lecture material, which in an unfair way puts students at a setback and reflects inadequate planning or oversight by the course organizers.",Academic,High,Department Head
+Air conditioners stop working during afternoon classes.,Infrastructure,High,Maintenance
+Emergency lights in staircases are not operational.,Infrastructure,Low,Maintenance
+Different staff members provide conflicting fee information.,Finance,Medium,Finance
+Duplicate charges appeared in some student accounts.,Finance,Low,Finance
+Students cannot check payment history easily.,Finance,Low,Finance
+Staff availability is limited during peak payment time,Finance,Medium,Finance
+Insufficient parking spaces during peak hours.,Infrastructure,Low,Transport & Parking
+Students park vehicles outside designated zones.,Infrastructure,Urgent,Transport & Parking
+Cars are parked in restricted areas.,Infrastructure,Medium,Transport & Parking
+Parking rules are not clearly communicated,Infrastructure,Medium,Transport & Parking
+Broken door locks in several washrooms.,Infrastructure,Medium,Maintenance
+Washroom lights remain off most of the time.,Infrastructure,High,Maintenance
+Elevator displays incorrect floor numbers.,Infrastructure,Urgent,Maintenance
+Classroom doors make loud noises when opening.,Infrastructure,Medium,Maintenance
+Washrooms sometimes have unpleasant odors.,Infrastructure,Low,Maintenance
+Broken sinks in several washrooms.,Infrastructure,High,Maintenance
+Broken mirrors in washrooms remain unrepaired.,Infrastructure,High,Maintenance

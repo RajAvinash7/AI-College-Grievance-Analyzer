@@ -1,0 +1,80 @@
+{
+    "Academics": {
+      "department": "Academic Department",
+      "subcategories": [
+        "Teaching",
+        "Course Registration",
+        "Study Material",
+        "Attendance",
+        "Faculty"
+      ]
+    },
+    "Administration": {
+      "department": "Admin Office",
+      "subcategories": [
+        "Documents",
+        "ID Card",
+        "Student Records",
+        "Certificates"
+      ]
+    },
+    "Examinations": {
+      "department": "Exam Cell",
+      "subcategories": [
+        "Marks",
+        "Results",
+        "Exam Portal",
+        "Hall Ticket",
+        "Exam Schedule"
+      ]
+    },
+    "Facilities": {
+      "department": "Maintenance",
+      "subcategories": [
+        "Air Conditioning",
+        "Electrical",
+        "Water Supply",
+        "Classroom Equipment",
+        "Cleanliness"
+      ]
+    },
+    "Fees & Finance": {
+      "department": "Finance Department",
+      "subcategories": [
+        "Fee Payment",
+        "Refund",
+        "Scholarship",
+        "Fee Discrepancy"
+      ]
+    },
+    "Hostel": {
+      "department": "Hostel Administration",
+      "subcategories": [
+        "Water Supply",
+        "Room Maintenance",
+        "Food",
+        "Electricity",
+        "Cleanliness"
+      ]
+    },
+    "IT Services": {
+      "department": "IT Department",
+      "subcategories": [
+        "WiFi",
+        "Website",
+        "Student Portal",
+        "Network",
+        "Computer Lab"
+      ]
+    },
+    "Student Services": {
+      "department": "Student Services",
+      "subcategories": [
+        "Library",
+        "Transport",
+        "ID Card",
+        "Counselling",
+        "Campus Services"
+      ]
+    }
+  }
